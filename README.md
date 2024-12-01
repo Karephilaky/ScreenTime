@@ -29,9 +29,11 @@ Instala las bibliotecas necesarias ejecutando:
 
 ```bash
 pip install pywin32
+```
+
 ---
 
-## ⚙️ Funcionalidades
+### ⚙️ Funcionalidades
 
 - **Iniciar seguimiento**: Inicia el monitoreo de las aplicaciones activas, registrando el tiempo que pasas en cada una.
 - **Detener seguimiento**: Detiene el monitoreo y desactiva el botón de "Detener seguimiento".
@@ -52,7 +54,7 @@ Para ejecutar el proyecto, corre el script `seguimiento_aplicaciones.py`:
 
 ```bash
 python seguimiento_aplicaciones.py
-
+```
 Esto abrirá la interfaz gráfica donde podrás:
 
 Iniciar el seguimiento: Haz clic en el botón "Iniciar seguimiento".
